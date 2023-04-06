@@ -22,3 +22,5 @@ OpenWeatherMap API
 ## Getting Started
 To use the weather dashboard, simply open the index.html file in your browser. Enter a city name in the search box, and click the search button. The application will display the current weather conditions and a five-day forecast for the city entered. You can switch between previously searched cities by clicking on them in the search history list.
 
+## Colaboration 
+I worked with a tutor on the java script.
